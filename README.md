@@ -1,6 +1,6 @@
 
 
-👋 Hi there! I'm a passionate  GCP Data Engineer  from West Bengal, India, with 2.5 years+ of experience in crafting innovative data solutions.
+👋 Hi there! I'm a passionate  GCP Data Engineer  from West Bengal, India, with 3.8 years+ of experience in crafting innovative data solutions.
 
 🚀  What I do: 
 - Develop and maintain robust data pipelines on Google Cloud Platform (GCP).
@@ -20,5 +20,4 @@
 
 📫  Connect with me: 
 - [LinkedIn](https://www.linkedin.com/in/santosh-beora/)
-- [Medium](https://medium.com/@santosh_beora)
 
